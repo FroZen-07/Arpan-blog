@@ -1,17 +1,17 @@
 const siteData = {
-  title: 'Starter Notion blog for Nextjs with Tailwind',
-  author: 'Notion Blog Starter',
-  headerTitle: 'Nextjs Notion Blog Starter',
-  profileUrl: '/nextjs-logo.png',
-  headerDescription: 'Starter Notion blog for Nextjs with Tailwind',
+  title: 'My Blogs',
+  author: 'Rather Be Arpan',
+  headerTitle: 'Arpan Saha',
+  profileUrl: '/socials/next-logo.jfif',
+  headerDescription: 'Apex in the food chain.',
   footerText: '© All rights reserved',
   language: 'en-us',
   locale: 'en-US',
   ogBanner: 'https://nextjs-notion-blog-starter.vercel.app/preview/1.jpg',
-  github: 'https://github.com/tuanphungcz/nextjs-notion-blog-starter',
-  twitter: 'https://github.com/tuanphungcz/nextjs-notion-blog-starter',
-  websiteUrl: 'https://nextjs-notion-blog-starter.vercel.app',
-  linkedin: 'https://github.com/tuanphungcz/nextjs-notion-blog-starter'
+  instagram: 'https://www.instagram.com/ratherbearpan/',
+  twitter: 'https://www.linkedin.com/in/arpan-saha-0562731a2/',
+  websiteUrl: 'https://arapn-saha.vercel.app',
+  linkedin: 'https://www.linkedin.com/in/arpan-saha-0562731a2/'
 };
 
 export default siteData;

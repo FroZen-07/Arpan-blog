@@ -3,15 +3,15 @@ import Image from 'next/image';
 
 export default function Socials() {
   const socials = [
+    // {
+    //   name: 'Twitter',
+    //   href: siteData?.twitter,
+    //   icon: '/socials/twitter.svg'
+    // },
     {
-      name: 'Twitter',
-      href: siteData?.twitter,
-      icon: '/socials/twitter.svg'
-    },
-    {
-      name: 'GitHub',
-      href: siteData?.github,
-      icon: '/socials/github.svg'
+      name: 'Instagram',
+      href: siteData?.instagram,
+      icon: '/socials/instagram.svg'
     },
     {
       name: 'LinkedIn',

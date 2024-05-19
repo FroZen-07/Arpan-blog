@@ -11,8 +11,8 @@ export default function HeroHeader({ blog }: any) {
           <Image
             src={siteData.profileUrl}
             className="mx-auto rounded-full"
-            width={96}
-            height={96}
+            width={300}
+            height={300}
             alt="profile"
           />
         )}
@@ -22,10 +22,10 @@ export default function HeroHeader({ blog }: any) {
         <div className="max-w-2xl mx-auto mt-2 text-xl text-gray-500">
           {siteData?.headerDescription}
         </div>
-
+{/* 
         <div className="mt-12">
           <SubscribeInput />
-        </div>
+        </div> */}
       </Container>
     </div>
   );
